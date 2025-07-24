@@ -15,7 +15,6 @@ The project is currently structured with separate directories for the web and da
 2.  **Environments:** Implement a directory structure to manage `dev`, `stg`, and `prd` environments.
 3.  **DRY Principles:** Use input variables and outputs to make the modules configurable and avoid code duplication.
 4.  **State Management:** Configure remote state management for each environment.
-5.  **Readme:** Update this README to explain the new structure and how to use it.
 
 ## Expected Outcome
 
